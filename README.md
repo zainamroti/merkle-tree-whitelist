@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
@@ -13,3 +14,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+=======
+# merkle-tree-whitelist
+>>>>>>> dc65dde5a0e4f76f80b753475db67c1f667597aa
